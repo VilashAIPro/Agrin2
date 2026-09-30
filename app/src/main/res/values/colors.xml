@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="forest_green">#2E7D32</color>
+    <color name="leaf_green">#66BB6A</color>
+    <color name="harvest_yellow">#F9A825</color>
+    <color name="sky_blue">#42A5F5</color>
+    <color name="alert_red">#D32F2F</color>
+    <color name="pure_white">#FFFFFF</color>
+</resources>
